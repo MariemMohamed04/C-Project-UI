@@ -167,6 +167,7 @@
             Controls.Add(guna2PictureBox2);
             FormBorderStyle = FormBorderStyle.None;
             Name = "StartForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "StartForm";
             ((System.ComponentModel.ISupportInitialize)guna2PictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
