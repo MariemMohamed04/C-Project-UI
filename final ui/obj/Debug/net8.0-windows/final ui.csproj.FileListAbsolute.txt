@@ -1,0 +1,45 @@
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\final ui.exe
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\final ui.deps.json
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\final ui.runtimeconfig.json
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\final ui.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\final ui.pdb
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.AssemblyReference.cache
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final_ui.Form1.resources
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.GenerateResource.cache
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.AssemblyInfoInputs.cache
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.AssemblyInfo.cs
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.CoreCompileInputs.cache
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.Up2Date
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\refint\final ui.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.pdb
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final ui.genruntimeconfig.cache
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\ref\final ui.dll
+C:\Users\CompuMisr\Desktop\project1\final ui\final ui\obj\Debug\net8.0-windows\final_ui.Properties.Resources.resources
+E:\final ui\final ui\bin\Debug\net8.0-windows\final ui.exe
+E:\final ui\final ui\bin\Debug\net8.0-windows\final ui.deps.json
+E:\final ui\final ui\bin\Debug\net8.0-windows\final ui.runtimeconfig.json
+E:\final ui\final ui\bin\Debug\net8.0-windows\final ui.dll
+E:\final ui\final ui\bin\Debug\net8.0-windows\final ui.pdb
+E:\final ui\final ui\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\final ui\final ui\bin\Debug\net8.0-windows\System.Management.dll
+E:\final ui\final ui\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.AssemblyReference.cache
+E:\final ui\final ui\obj\Debug\net8.0-windows\final_ui.Form1.resources
+E:\final ui\final ui\obj\Debug\net8.0-windows\final_ui.Properties.Resources.resources
+E:\final ui\final ui\obj\Debug\net8.0-windows\final_ui.StartForm.resources
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.GenerateResource.cache
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.GeneratedMSBuildEditorConfig.editorconfig
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.AssemblyInfoInputs.cache
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.AssemblyInfo.cs
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.CoreCompileInputs.cache
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.Up2Date
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.dll
+E:\final ui\final ui\obj\Debug\net8.0-windows\refint\final ui.dll
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.pdb
+E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.genruntimeconfig.cache
+E:\final ui\final ui\obj\Debug\net8.0-windows\ref\final ui.dll
