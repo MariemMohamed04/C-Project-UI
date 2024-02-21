@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +34,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "GameLobby.cs [Design]",
+              "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\GameLobby.cs",
+              "RelativeDocumentMoniker": "final ui\\GameLobby.cs",
+              "ToolTip": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\GameLobby.cs [Design]",
+              "RelativeToolTip": "final ui\\GameLobby.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:55:53.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "final ui\\CategoryForm.cs",
+              "ToolTip": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "final ui\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:50:41.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GameForm.cs [Design]",
               "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\GameForm.cs",
               "RelativeDocumentMoniker": "final ui\\GameForm.cs",
@@ -50,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\Program.cs",
               "RelativeDocumentMoniker": "final ui\\Program.cs",
@@ -60,42 +80,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T15:44:57.729Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameLobby.cs [Design]",
-              "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\GameLobby.cs",
-              "RelativeDocumentMoniker": "final ui\\GameLobby.cs",
-              "ToolTip": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\GameLobby.cs [Design]",
-              "RelativeToolTip": "final ui\\GameLobby.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:39:49.03Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StartForm.cs [Design]",
-              "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\StartForm.cs",
-              "RelativeDocumentMoniker": "final ui\\StartForm.cs",
-              "ToolTip": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\StartForm.cs [Design]",
-              "RelativeToolTip": "final ui\\StartForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:56:12.747Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\Form1.cs",
-              "RelativeDocumentMoniker": "final ui\\Form1.cs",
-              "ToolTip": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\Form1.cs [Design]",
-              "RelativeToolTip": "final ui\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:52:27.24Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
