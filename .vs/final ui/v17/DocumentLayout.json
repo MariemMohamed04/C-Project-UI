@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|f:\\cs\\c#\\project\\new folder\\final ui\\final ui\\final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4647C6A0-719F-48C9-A9B4-ECA8179B5D71}|final ui\\final ui.csproj|solutionrelative:final ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GameForm.cs [Design]",
               "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\GameForm.cs",
               "RelativeDocumentMoniker": "final ui\\GameForm.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\Program.cs",
               "RelativeDocumentMoniker": "final ui\\Program.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StartForm.cs [Design]",
               "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\StartForm.cs",
               "RelativeDocumentMoniker": "final ui\\StartForm.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\Form1.cs",
               "RelativeDocumentMoniker": "final ui\\Form1.cs",

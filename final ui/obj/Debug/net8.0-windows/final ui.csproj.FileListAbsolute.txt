@@ -68,3 +68,4 @@ F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\
 F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.genruntimeconfig.cache
 F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\ref\final ui.dll
 F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final_ui.GameLobby.resources
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final_ui.GameForm.resources
