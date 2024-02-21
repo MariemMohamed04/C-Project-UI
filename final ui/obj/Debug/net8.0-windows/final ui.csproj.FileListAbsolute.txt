@@ -43,3 +43,27 @@ E:\final ui\final ui\obj\Debug\net8.0-windows\refint\final ui.dll
 E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.pdb
 E:\final ui\final ui\obj\Debug\net8.0-windows\final ui.genruntimeconfig.cache
 E:\final ui\final ui\obj\Debug\net8.0-windows\ref\final ui.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\final ui.exe
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\final ui.deps.json
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\final ui.runtimeconfig.json
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\final ui.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\final ui.pdb
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\Guna.UI2.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\System.Management.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.AssemblyReference.cache
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final_ui.Form1.resources
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final_ui.Properties.Resources.resources
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final_ui.StartForm.resources
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.GenerateResource.cache
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.AssemblyInfoInputs.cache
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.AssemblyInfo.cs
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.CoreCompileInputs.cache
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.sourcelink.json
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.csproj.Up2Date
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\refint\final ui.dll
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.pdb
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\final ui.genruntimeconfig.cache
+F:\CS\C#\Project\New folder\final ui\final ui\final ui\obj\Debug\net8.0-windows\ref\final ui.dll

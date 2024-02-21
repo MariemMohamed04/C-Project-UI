@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\final ui\\final ui\\final ui.csproj": {}
+    "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\final ui.csproj": {}
   },
   "projects": {
-    "E:\\final ui\\final ui\\final ui.csproj": {
+    "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\final ui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\final ui\\final ui\\final ui.csproj",
+        "projectUniqueName": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\final ui.csproj",
         "projectName": "final ui",
-        "projectPath": "E:\\final ui\\final ui\\final ui.csproj",
-        "packagesPath": "C:\\Users\\CompuMisr\\.nuget\\packages\\",
-        "outputPath": "E:\\final ui\\final ui\\obj\\",
+        "projectPath": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\final ui.csproj",
+        "packagesPath": "C:\\Users\\H P\\.nuget\\packages\\",
+        "outputPath": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CompuMisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\H P\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Programs\\Nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

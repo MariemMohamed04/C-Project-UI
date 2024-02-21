@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CDGO/FUphkCKDf7roQoLdFEjwgMi+iABvq2ZrxJ03/KEe0Y3va+XVAacmxN5h+455210z9wqDd6aUqDwhkNo5A==",
+  "dgSpecHash": "3He8d1G0J54V4Mlrz+zKveRGYj8mHudKUcmQxovdBGi3XvYyzCXkvddE1bpxNaSv1BaRCyEc/DvD7V2BAir+cQ==",
   "success": true,
-  "projectFilePath": "E:\\final ui\\final ui\\final ui.csproj",
+  "projectFilePath": "F:\\CS\\C#\\Project\\New folder\\final ui\\final ui\\final ui\\final ui.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\CompuMisr\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
-    "C:\\Users\\CompuMisr\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\CompuMisr\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\H P\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\H P\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\H P\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
